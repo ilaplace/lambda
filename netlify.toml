@@ -3,6 +3,8 @@
 
     functions = "./functions/"
 
+    publish = "public"
+
 [[redirects]]
     from = "/old"
     to = "/new"
